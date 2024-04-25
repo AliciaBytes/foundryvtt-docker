@@ -1,4 +1,4 @@
-FROM node:lts@sha256:089fb4401797d2bdabd22bf0de72c9fa9897e79810f67fe934b9719de0c55612
+FROM node:lts@sha256:3864be2201676a715cf240cfc17aec1d62459f92a7cbe7d32d1675e226e736c9
 
 RUN mkdir -p /opt/foundryvtt && \
     mkdir -p /data && \
