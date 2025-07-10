@@ -1,3 +1,3 @@
 #!/bin/sh
 
-node resources/app/main.js --dataPath=/data
+node main.js --dataPath=/data
